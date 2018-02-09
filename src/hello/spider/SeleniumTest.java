@@ -36,7 +36,7 @@ import util.MyBatisUtil;
 
 /**
  * @author 根据详情页url采集到数据库 
- * 
+ * @author 邮箱 921894@gmail.com</n>
  */
 public class SeleniumTest implements Runnable {
 	private String url;

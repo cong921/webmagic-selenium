@@ -39,8 +39,7 @@ import lcw.po.CrawlerXqWithBLOBs;
 import util.MyBatisUtil;
 
 /**
- * @author 高远</n> 编写日期 2016-11-13下午9:02:01</n> 邮箱 wgyscsf@163.com</n> 博客
- *         http://blog.csdn.net/wgyscsf</n> TODO</n>
+ * @author 邮箱 921894@gmail.com</n>
  */
 public class SeleniumTest3 implements Runnable {
 	private String url;
