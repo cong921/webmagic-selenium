@@ -10,8 +10,8 @@
         <property name="driver" value="com.mysql.jdbc.Driver"/>
       <!--   <property name="url" value="jdbc:mysql://127.0.0.1:3306/spider3"/> -->
         <property name="url" value="jdbc:mysql://127.0.0.1:3306/jtcrawler?useUnicode=true&amp;characterEncoding=utf-8"/>
-        <property name="username" value="usr"/>
-        <property name="password" value="BeiJing!QAZ2wsx"/>
+        <property name="username" value="user"/>
+        <property name="password" value="password"/>
       </dataSource>
     </environment>
   </environments>
